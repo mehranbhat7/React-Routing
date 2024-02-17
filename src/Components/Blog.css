@@ -1,0 +1,21 @@
+/* CoverLetterPage.css */
+
+.cover-letter-page {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+  margin-bottom: 70px;
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  text-decoration-thickness: 7px;
+}
+
+p {
+  color: #555;
+  line-height: 1.6;
+  margin-top: 15px;
+}

@@ -1,0 +1,17 @@
+.about-page {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+  font-size: 70px;
+}
+
+p {
+  margin-bottom: 15px;
+  font-size: 30px;
+  color: rgba(138, 142, 146, 0.736);
+  font-family: "Times New Roman", Times, serif;
+}
