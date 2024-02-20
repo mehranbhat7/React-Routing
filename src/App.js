@@ -5,19 +5,12 @@ import Contact from "./Components/Contact";
 import About from "./Components/About";
 import Blog from "./Components/Blog";
 import Navbar from "./Components/Navbar";
+import Login from "./Components/Login";
 
 function App() {
   return (
     <>
-      <h2
-        style={{
-          display: "flex",
-          justifyContent: "center",
-          alignItems: "center",
-        }}
-      >
-        My React-Router-Dom
-      </h2>
+      <h2>My React-Router-Dom</h2>
       <header>
         <Navbar />
       </header>
@@ -26,6 +19,7 @@ function App() {
         <Route path="/contact" element={<Contact />} />
         <Route path="/About" element={<About />} />
         <Route path="/blog" element={<Blog />} />
+        <Route path="/login" element={<Login />} />
       </Routes>
     </>
   );
