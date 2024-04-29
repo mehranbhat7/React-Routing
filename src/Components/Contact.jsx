@@ -6,7 +6,7 @@ const Contact = () => {
     <div className="contact-page">
       <h1>Contact Me</h1>
       <br />
-      <p>Feel free to reach out me .</p>
+      <p>Feel free to reach out me anytime .</p>
       <br />
       <br />
 
