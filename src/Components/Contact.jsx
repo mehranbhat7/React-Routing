@@ -4,7 +4,7 @@ import "./Contact.css";
 const Contact = () => {
   return (
     <div className="contact-page">
-      <h1>Contact Me</h1>
+      <h1>Contact Me ASAP</h1>
       <br />
       <p>Feel free to reach out me anytime .</p>
       <br />
